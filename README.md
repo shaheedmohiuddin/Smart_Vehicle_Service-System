@@ -182,22 +182,11 @@ GEMINI_API_KEY=your_gemini_api_key
   - Visual representation of each service type
   - Clean and modern design aesthetic
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
-- GitHub: (https://github.com/Uchiha_byte)
-- Email: uchihabyte.git@gmail.com
+- GitHub: (https://github.com/shaheedmohiuddin)
+- Email: shaheedmohiuddin99@gmail.com
 
 ## 🙏 Acknowledgments
 
